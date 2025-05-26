@@ -15,8 +15,8 @@ public class ProductController {
 
     private static final Random R = new SecureRandom();
     private static final String[] NAMES = {
-            "Laptop", "Phone", "Tablet", "Headphones", "Keyboard",
-            "Mouse", "Monitor", "Camera", "Speaker", "Printer"
+            "Apple", "Banana", "Cherry", "Date", "Elderberry",
+            "Fig", "Grape", "Honeydew", "Kiwi", "Lemon"
     };
 
     @GetMapping
